@@ -9,3 +9,7 @@ iOS 11 發表了 ARKit SDK 超級好玩，Unity 也手刀導入了這個技術�
 - [導入素材](/3.dao-ru-su-cai.md)
 - [開始 AR！](/4.kai-shi-ar.md)
 - [Music！](/5.music.md)
+
+## 版權
+
+<div><img src="http://unity-chan.com/images/imageLicenseLogo.png" alt="ユニティちゃんライセンス"><p>この作品は<a href="http://unity-chan.com/contents/license_jp/" target="_blank">ユニティちゃんライセンス条項</a>の元に提供されています</p></div>
