@@ -1,3 +1,4 @@
-# My Awesome Book
+# Unity ARKit 入門 - UnityChan Candy Rock Star
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+iOS 11 發表了 ARKit SDK 超級好玩，Unity 也手刀導入了這個技術，實做超低難度，本文會依序說明實做過程，大家可以玩看看！
+
